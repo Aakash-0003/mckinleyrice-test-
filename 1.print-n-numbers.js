@@ -1,4 +1,4 @@
-/* Simple Hello World in Node.js */
+
 const readline = require("readline");
 const rl = readline.createInterface({
     input: process.stdin,
